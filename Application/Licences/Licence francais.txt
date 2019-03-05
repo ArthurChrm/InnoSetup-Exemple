@@ -1,0 +1,305 @@
+Licence d'utilisation
+
+CONTRAT DE LICENCE UTILISATEUR FINAL POUR LE LOGICIEL TECHSMITH -- SnagIt
+
+IMPORTANT - A LIRE ATTENTIVEMENT : Cette Licence d'utilisation TechSmith
+constitue un contrat passé entre vous (personne physique ou morale) et
+TechSmith Corporation pour l'utilisation du produit TechSmith identifié
+ci-dessus, comprenant le logiciel et la documentation qui s'y rapporte,
+y compris les documents "en ligne" ("PRODUIT LOGICIEL" ou "LOGICIEL").
+En installant, en copiant ou en utilisant le PRODUIT LOGICIEL, vous acceptez
+les termes de la présente Licence. Si vous n'acceptez pas les termes de
+la licence, veuillez retourner le PRODUIT LOGICIEL non utilisé au plus vite
+à votre revendeur pour obtenir son remboursement.
+
+LICENCE DU PRODUIT LOGICIEL
+
+Le PRODUIT LOGICIEL est protégé par les lois et traités internationaux
+concernant le copyright et la propriété intellectuelle. Le PRODUIT LOGICIEL
+est soumis à une Licence d'utilisation ; il n'est pas vendu.
+
+
+1. CONCESSION DE LICENCE
+La présente Licence vous octroie les droits suivants :
+
+La section suivante, Systèmes, s'applique à toutes les versions du PRODUIT
+LOGICIEL sauf si la boîte de dialogue A propos dans le menu Aide du PRODUIT
+LOGICIEL indique une version multi-utilisateurs.
+
+Système - Vous pouvez installer et utiliser une copie du PRODUIT LOGICIEL sur
+un ordinateur unique, pour un seul utilisateur à la fois.
+
+Systèmes (multi-utilisateurs) - Vous pouvez installer et utiliser un nombre de
+copies du PRODUIT LOGICIEL équivalent au nombre de licences mentionné dans
+l'enregistrement de votre achat ("copie principale").
+
+Chaque utilisateur principal du PRODUIT LOGICIEL mentionné ci-dessus, peut
+également installer et utiliser une copie supplémentaire du PRODUIT LOGICIEL
+sur un périphérique mobile ou sur un ordinateur de bureau (uniquement sur l'un
+de ces périphériques), à condition que celle-ci ne soit pas utilisée
+parallèlement à la copie principale.
+
+Stockage et utilisation en réseau - Vous pouvez également stocker ou installer
+une copie du PRODUIT LOGICIEL sur un périphérique de stockage, tel qu'un
+serveur réseau, utilisé uniquement pour installer ou lancer le PRODUIT LOGICIEL
+sur d'autres ordinateurs au sein d'un réseau interne. Toutefois, vous devez
+acquérir et dédier une licence pour chaque poste de travail sur lequel le
+PRODUIT LOGICIEL est installé et utilisé.
+
+Utilisations multiples - Une même Licence pour le PRODUIT LOGICIEL ne peut être
+utilisée simultanément sur plusieurs ordinateurs.
+
+
+2. DESCRIPTION DES AUTRES DROITS ET LIMITATIONS
+Limitations concernant la décompilation, le désassemblage et l'ingénierie
+inverse -
+Tout désassemblage, décompilation ou ingénierie inverse du PRODUIT LOGICIEL est
+interdit.
+
+Séparation des composants - Le PRODUIT LOGICIEL est considéré comme un produit
+unique par la licence d'utilisation. Ses divers composants sont indissociables
+et ne peuvent pas être utilisés séparément sur diffèrents ordinateurs.
+
+Location -  La location du PRODUIT LOGICIEL est interdite.
+
+Transfert - Vous ne pouvez pas transférer tous les droits qui vous sont
+conférés par la licence d'utilisation sans le consentement écrit explicite de
+TechSmith.
+
+Retrait de la Licence - TechSmith se réserve le droit de mettre un terme à la
+présente licence, sans autre forme d'indemnisation, si vous n'en respectez pas
+les termes et conditions. Dans cette éventualité, vous serez contraint de
+détruire toutes les copies du PRODUIT LOGICIEL et tous les composants en votre
+possession.
+
+Restrictions du développement - Ces restrictions s'appliquent aux détenteurs de
+licences développant des applications logicielles utilisant le PRODUIT LOGICIEL
+dans une application commerciale.
+(i)   Une licence du PRODUIT LOGICIEL doit impérativement être acquise pour
+      chaque copie de l'application logicielle vendue ;
+(ii)  Le PRODUIT LOGICIEL ne doit pas être le seul ou le principal composant
+      d'une telle application logicielle ;
+(iii) Vous devez reconnaître les droits d'auteurs de TECHSMITH en bonne et due
+      forme ;
+(iv)  Ne doit en aucun cas être utilisé pour créer une application logicielle,
+      directement ou indirectement concurrente au PRODUIT LOGICIEL ;
+(v)   L'application logicielle doit apporter une plus-value significative au
+      PRODUIT LOGICIEL. Toutes les utilisations sortant du champ d'application
+      de cette licence requièrent l'autorisation écrite préalable de TechSmith.
+
+
+3. MISES A JOUR
+Si le PRODUIT LOGICIEL est une mise à jour d'un produit différent, fourni par
+TechSmith ou tout autre fournisseur, vous pouvez utiliser ou transférer le
+PRODUIT LOGICIEL avec la mise à jour du produit, sauf si vous détruisez le
+produit mis à jour.
+Si le PRODUIT LOGICIEL est une mise à jour d'un produit TechSmith, vous ne
+pouvez utiliser cette mise à jour qu'en accord avec les termes de la présente
+licence.
+Si le PRODUIT LOGICIEL est une mise à jour d'un composant d'une suite
+logicielle considérée comme un produit unique par la licence, le PRODUIT
+LOGICIEL peut être utilisé et transféré uniquement comme partie intégrante de
+cette suite et ne peut en aucun cas être dissocié pour être utilisé sur
+plusieurs ordinateurs.
+
+
+4. COPYRIGHT
+Toutes les marques et tous les copyrights du PRODUIT LOGICIEL ou de son contenu
+(y compris, mais sans s'y limiter, les images, photographies, vidéos,
+animations, pistes audio, textes et "applets" incorporés au PRODUIT LOGICIEL),
+la documentation imprimée l'accompagnant et toutes les copies du PRODUIT
+LOGICIEL sont la propriété exclusive de TechSmith ou de ses fournisseurs. Le
+PRODUIT LOGICIEL est protégé par les lois et dispositions des traités
+internationaux relatives au copyright. De ce fait, vous devez traiter le
+PRODUIT LOGICIEL comme tout autre matériel assujetti au copyright à la
+différence que (a) vous êtes autorisé(e) à réaliser une copie unique
+du PRODUIT LOGICIEL à des fins de sauvegarde ou d'archivage ou (b) à installer
+le PRODUIT LOGICIEL sur un seul ordinateur à condition que vous ne conserviez
+l'original qu'à des fins de sauvegarde ou d'archivage. Il est interdit de
+copier la documentation imprimée accompagnant le PRODUIT LOGICIEL. Les droits
+d'auteurs et marques déposées ne peuvent pas être utilisés sur des sites de
+vente aux enchères en ligne sans le consentement écrit préalable de TechSmith.
+
+
+5. REDRESSEMENT PAR INJONCTION
+Les parties contractantes s'entendent sur le fait que l'utilisation du PRODUIT
+LOGICIEL de façon non-autorisée ou le non-respect des termes et conditions de
+cette licence aurait un impact néfaste et dévastateur sur la compétitivité de
+TechSmith et nuirait irrémédiablement à TechSmith.  Les parties contractantes
+s'accordent sur le fait qu'en présence d'une telle éventualité, en sus des
+droits d'indemnisation dont jouit TechSmith en cas de non-respect de la
+présente licence, TechSmith pourra requérir une injonction temporaire ou une
+ordonnance de mesure provisoire auprès d'une juridiction compétente pour
+retirer de facto les droits d'utilisation du PRODUIT LOGICIEL au détenteur de
+la licence (vous), vos employés, agents, consultants ou les contractants
+indépendants, afin de faire obstacle à la poursuite de toute activité
+
+non-conforme aux termes et conditions de la présente licence.
+
+
+6. LOGICIEL MULTI-SUPPORTS
+Il est possible que vous receviez le PRODUIT LOGICIEL sur différents supports.
+Quel que soit le type ou le nombre de supports que vous receviez, vous n'êtes
+autorisé(e) à en utiliser qu'un seul sur votre ordinateur. Vous n'êtes pas
+autorisé(e) à utiliser ou à installer un autre support sur un autre ordinateur.
+Vous n'êtes pas autorisé(e) à louer ou transférer les autres supports à un
+utilisateur tiers.
+
+
+7. DROITS LIMITES DU GOUVERNEMENT DES ETATS-UNIS
+Le PRODUIT LOGICIEL et la documentation sont fournis avec des DROITS LIMITES.
+L'utilisation, la reproduction ou la diffusion par le gouvernement est soumise
+à des restrictions énoncées dans l'alinéa (c) (1) (ii) de la clause "Rights in
+Technical Data and Computer Software" (droits des données techniques et des
+logiciels informatiques) du DFARS 252.227-7013 ou dans l'alinéa (c)(i) et (2)
+de la clause "Commercial Computer Software - Restricted Rights" (droits
+informatiques commerciaux limités aux logiciels), du 48 CFR 52.227-19, le cas
+échéant. Le fabricant est :
+TechSmith Corporation
+2405 Woodlake Drive
+Okemos, MI, 48864-5910 ETATS-UNIS
+
+
+8. DIVERS
+Cette licence est régie par les lois de l'Etat du Michigan et les parties
+contractantes renoncent à toute signification à personne pour les actes de
+procédures quels qu'ils soient et consentent de faire parvenir toute
+signification d'acte de procédure par courrier recommandé, dans un délai
+maximal de cinq (5) jours ouvrables après son dépôt auprès des services postaux
+des Etats-Unis, port prépayé.  Vous renoncez de fait à toute objection fondée
+sur la notion du forum non conveniens et à toute objection relative au lieu de
+tenue de toute action intentée dans le cadre de cet accord par TechSmith devant
+le ressort territorial de son choix.
+
+
+Si vous avez des questions concernant la présente licence d'utilisation ou si
+vous souhaitez contacter TechSmith pour toute autre raison, veuillez contacter
+le représentant de TechSmith dans votre pays ou nous écrire à l'adresse
+suivante :
+
+TechSmith Corporation
+2405 Woodlake Drive
+Okemos, MI, 48909-6095 ETATS-UNIS
+
+Téléphone :            +1 517-381-2300
+Fax (France) :         +33 (0)1 53 01 66 05
+Fax (USA) :            +1 517-913-6121
+Service commercial :   ventes@techsmith.com
+Service d'assistance : http://support.techsmith.com/fr
+Internet :             http://fr.techsmith.com
+
+
+9. GARANTIE LIMITEE
+TechSmith garantit que (a) le PRODUIT LOGICIEL se comportera essentiellement
+comme décrit dans la documentation qui l'accompagne pour une période de
+quatre-vingt-dix (90) jours suivant la date de réception, et que (b) tout
+support matériel accompagnant le PRODUIT LOGICIEL est exempt de tout défaut de
+fabrication et fait l'objet d'une garantie d'un (1) an suivant la date de
+réception, dans le cadre d'une utilisation normale. Certains Etats ou pays
+n'autorisant aucune durée limite de garantie, les limitations citées
+précédemment peuvent ne pas être applicables à votre cas particulier. Dans le
+cadre des lois applicables, la garantie concernant le PRODUIT LOGICIEL et son
+support matériel, si applicable, est limitée respectivement à quatre-vingt-dix
+jours et à un an.
+
+
+10. RECOURS CLIENT
+La responsabilité de TechSmith et de son fournisseur ainsi que votre recours en
+cas d'insatisfaction se limiteront, à la discrétion de TechSmith, soit (a) au
+remboursement du prix d'achat, soit (b) à la réparation ou au remplacement du
+PRODUIT LOGICIEL ou du support matériel ne répondant pas aux critères précisés
+par la LIMITE DE GARANTIE. Pour faire valoir ce recours vous devez
+impérativement avoir retourné le produit à TechSmith accompagné d'une copie de
+votre facture. Cette garantie est nulle et non avenue si le défaut du PRODUIT
+LOGICIEL ou de son support matériel résulte d'un accident, d'une mauvaise
+utilisation ou d'une mauvaise manipulation. Tout remplacement
+
+du PRODUIT LOGICIEL ou de son support matériel sera garanti pour le restant de
+la durée de garantie d'origine, ou pour une période de trente (30) jours, selon
+la période la plus longue. En dehors des Etats-Unis, aucun de ces recours, ni
+aucun service d'assistance technique proposé par TechSmith n'est applicable
+sans preuve d'achat émise par une source internationale agréée.
+
+
+11. AUCUNE AUTRE GARANTIE
+Dans la limite des lois applicables, TechSmith et son fournisseur dénoncent
+toute autre garantie, expresse ou implicite, y compris, mais sans s'y limiter,
+la qualité marchande ou l'adéquation à un but particulier, en ce qui concerne
+le PRODUIT LOGICIEL et son support matériel. Cette garantie limitée vous
+concède des droits juridiques spécifiques. Vous pouvez également détenir
+d'autres droits, lesquels varient selon l'état/ la juridiction.
+
+
+12. PAS DE RESPONSABILITE EN CAS DE DOMMAGES CONSECUTIFS
+Dans la limite des lois applicables, TechSmith et ses fournisseurs ne pourront
+en aucun cas être tenus responsables pour tout dommage spécial, accidentel ou
+consécutif indirect (y compris, mais sans s'y limiter, la perte de profit,
+cessation d'activité, perte de données ou toute autre perte financière) qui
+pourraient survenir suite à l'utilisation du PRODUIT LOGICIEL, même si
+TechSmith a été avisé de l'éventualité de tels dommages. Certains
+états/juridictions n'autorisant pas l'exclusion ou la limitation de
+responsabilité pour dommages consécutifs ou accidentels, les limitations
+ci-dessus ne s'appliquent peut-être pas à votre cas particulier.
+
+
+13. SURVIVANCE
+Les limitations et obligations stipulées dans cette licence d'utilisation, que
+vous avez acceptée, subsisteront après l'expiration, la fin ou l'annulation de
+la présente licence et resteront de fait effectives pour une année, à compter
+du premier jour et de la première année mentionnée ci-dessus pour lier le
+contractant (vous), vos employés, agents, successeurs, héritiers et ayant
+droits.
+
+
+14. INTEGRATION
+La présente licence d'utilisation prévoit l'accord de toutes les parties
+contractantes concernant le sujet du présent contrat de licence et se substitue
+à toutes discussions, accords ou arrangements antérieurs, écrits ou oraux,
+intervenus précédemment.
+
+
+15. REVISIONS
+Sauf mention contraire dans la présente licence d'utilisation, ce contrat ne
+peut être révisé, modifié ou ses conditions dénoncées par l'une ou l'autre
+partie contractante, hormis si des demandes écrites expresses signées et
+contre-signées par les représentants dûment autorisés des deux parties
+contractantes sont soumises.
+
+
+16. CESSIBILITE
+Ce contrat, ainsi que les droits et obligations mentionnés dans le présent
+accord ne peuvent être affectés librement sans l'accord préalable écrit de
+TechSmith.
+
+
+17. BENEFICIAIRE
+La présente licence d'utilisation est obligatoire et s'applique au profit de
+TechSmith et de ses successeurs et ayants droit.
+
+
+18. CONTREPARTIES
+La présente licence peut être réalisée en un ou plusieurs exemplaires, chacun
+étant opposable à la contrepartie en possession de l'autre partie
+contractante, l'ensemble constituant un seul et même outil.
+
+
+19. TITRES
+Les titres contenus dans cet accord sont insérés en tant que référence et ne
+peuvent en aucun cas définir, limiter, étendre ou décrire la portée de la
+licence d'utilisation, ni refléter les conditions exprimées dans cette
+dernière.
+
+
+20. AUTONOMIE
+Si une juridiction compétente déclare l'une des conditions de la présente
+licence comme étant illégale, inapplicable, nulle et non avenue, cette licence
+pourra rester en vigueur sans la dite condition. Cependant, l'autonomie ne peut
+être applicable si elle affecte, de manière appréciable, les avantages
+économiques de cette licence au profit de l'autre partie contractante.
+
+
+21. AUTORITE SIGNATAIRE
+Vous garantissez et déclarez à TechSmith que vous êtes lié de façon
+contractuelle à cette licence d'utilisation dès sa signature et que le
+signataire de ce document est bien une personne habilitée.
+

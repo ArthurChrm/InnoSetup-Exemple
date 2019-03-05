@@ -1,0 +1,48 @@
+LICENSE AGREEMENT
+~~~~~~~~~~~~~~~~~
+Enterprise Architect(R) version 2.50
+Copyright (C) 1998-2001 Sparx Systems Pty Ltd.
+All Rights Reserved
+For ordering information, see www.sparxsystems.com.au.
+
+
+*** REGISTERED LICENSE ***
+This license applies to the registered version of Enterprise Architect. If you are using an evaluation version of Enterprise Architect, see the section titled "Evaluation License" below. A 'Registered Version' of Enterprise Architect is one for which the appropriate license fee has been paid in full and a suitable software 'key' provided to enable the software's use. You should carefully read the following terms and conditions before using this software.  Unless you have a different license agreement signed by Sparx Systems Pty Ltd. your use of this software indicates your acceptance of this license agreement and warranty.
+
+One registered copy of Enterprise Architect may either be used by a single person who uses the software personally on one or more computers, or installed on a single workstation used nonsimultaneously by multiple people, but not both. You may access the registered version of Enterprise Architect through a network, provided that you have obtained individual licenses for the software covering all workstations that will access the software through the network.  For instance, if 8 different workstations will access Enterprise Architect on the network, each workstation must have its own Enterprise Architect license, regardless of whether they use Enterprise Architect at different times or concurrently.
+
+The Academic License
+The same usage conditions apply to the Academic version of Enterprise Architect as the registered version detailed above, with the additional restriction on commercial use as detailed in the following paragraph.
+
+Academic Commercial Limitation
+The academic registered version of Enterprise Architect is to all intents and purposes the same software as the full commercial Professional version of the software. The academic license however is limited to use in an educational context, either for self-education or use in a registered teaching institution. The academic version may not be used to produce commercial software products or be used in a commercial environment. 
+
+Governing Law
+This agreement shall be governed by the laws of the State of Victoria, AUSTRALIA.
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the various hardware and software environments into which Enterprise Architect may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS OFFERED.
+Good data processing procedure dictates that any program be thoroughly tested with non-critical data before relying on it. The user must assume the entire risk of using the program. ANY LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+You are expressly forbidden from distributing the registered version of Enterprise Architect, disclosing information on the current download site and distributing software key(s). You man not make unlicensed copies of the program and you are specifically prohibited from charging, or requesting donations, for any such illegal copies, however made; and from distributing the software and/or documentation with other products (commercial or otherwise).
+
+
+
+*** EVALUATION LICENSE ***
+The following license applies to the evaluation version of Enterprise Architect. If you have purchased a license for the registered version of Enterprise Architect, see the section entitled "Registered License" above. 
+You should carefully read the following terms and conditions before using this software.  Unless you have a different license agreement signed by Sparx Systems Pty Ltd. your use of this software indicates your acceptance of this license agreement and warranty.
+
+Evaluation and Registration
+This is not free software.  Subject to the terms below, you are hereby licensed to use this software for evaluation purposes without charge for a period of 30 days.  If you choose to use this software after the 30 day evaluation period a registration fee is required.  Credit card ordering and quantity discounts are available, as described at www.sparxsystems.com.au/ea_puchase.htm. When payment is received you will be sent details on where to obtain the registered version of Enterprise Architect and a suitable software 'key'. Unregistered use of Enterprise Architect after the 30-day evaluation period is in violation of Australian, U.S.and international copyright laws. Sparx Systems may extend the evaluation period on request and at their discretion.
+
+Governing Law
+This agreement shall be governed by the laws of the State of Victoria, AUSTRALIA.
+
+Disclaimer of Warranty
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE OR MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the various hardware and software environments into which Enterprise Architect may be put, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS OFFERED.
+Good data processing procedure dictates that any program be thoroughly tested with non-critical data before relying on it. The user must assume the entire risk of using the program.  ANY LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT REPLACEMENT OR REFUND OF PURCHASE PRICE.
+
+Distribution of Evaluation Version
+Provided that you verify that you are distributing the evaluation version (select About from the Enterprise Architect Help menu to check) you are hereby licensed to make as many copies of the evaluation version of this software and documentation as you wish; give exact copies of the original evaluation version to anyone; and distribute the evaluation version of the software and documentation in its unmodified form via electronic means.  There is no charge for any
+of the above. You are specifically prohibited from charging, or requesting donations, for any such copies, however made; and from distributing the software and/or documentation with other products (commercial or otherwise) without prior written permission. 
+###
