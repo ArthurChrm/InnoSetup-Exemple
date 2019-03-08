@@ -16,6 +16,7 @@ AppSupportURL=http://www.Cheramy-A.net/
 AppUpdatesURL=http://www.Cheramy-A.net/
 DefaultDirName={pf}\Cheramy-A 1.0 de Cheramy-A Soft Inc.
 DisableProgramGroupPage=yes
+LicenseFile=C:\Cheramy-A\Application\Licences\Licence_francais.txt
 OutputDir=C:\Cheramy-A\Installation
 OutputBaseFilename=CheramyASetup
 SetupIconFile=C:\Cheramy-A\Application\Calc.ico
@@ -24,8 +25,8 @@ Compression=lzma
 SolidCompression=yes
 
 [Languages]
-Name: "english"; MessagesFile: "compiler:Default.isl"
-Name: "french"; MessagesFile: "compiler:Languages\French.isl"
+Name: "english"; MessagesFile: "compiler:Default.isl"; LicenseFile: C:\Cheramy-A\Application\Licences\License_english.txt
+Name: "french"; MessagesFile: "compiler:Languages\French.isl"; LicenseFile: C:\Cheramy-A\Application\Licences\Licence_francais.txt
 
 [Tasks]
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}";
