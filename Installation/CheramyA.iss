@@ -25,6 +25,13 @@ Compression=lzma
 SolidCompression=yes
 UninstallDisplayIcon={app}\Desinstaller.ico
 
+[Components]
+Name: "cheramya"; Description: "Application CheramyA"; Types: full compact custom; ExtraDiskSpaceRequired: 20068214; Flags: fixed
+Name: "user"; Description: "User's guide"; Types: full compact custom; Languages: english
+Name: "usager"; Description: "Guide de l'usager"; Types: full compact custom; Languages: french
+Name: "readme"; Description: "Readme file"; Types: full compact custom; Languages: english
+Name: "lisezmoi"; Description: "Fichier lisezmoi"; Types: full compact custom; Languages: french
+
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"; LicenseFile: C:\Cheramy-A\Application\Licences\LicenseEN.rtf
 Name: "french"; MessagesFile: "compiler:Languages\French.isl"; LicenseFile: C:\Cheramy-A\Application\Licences\LicenceFR.rtf
