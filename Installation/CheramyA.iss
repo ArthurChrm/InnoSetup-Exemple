@@ -47,6 +47,22 @@ Source: "C:\Cheramy-A\Application\Calc.exe"; DestDir: "{app}"; Flags: ignorevers
 Source: "C:\Cheramy-A\Application\Calc.hlp"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Cheramy-A\Application\Calc.ico"; DestDir: "{app}"; Flags: ignoreversion
 Source: "Desinstaller.ico"; DestDir: "{app}"; Flags: ignoreversion
+
+Source: "C:\Cheramy-A\Application\Guides\PDFFile.ico"; DestDir: "{app}\User's guide"; Components: user; Languages: english
+Source: "C:\Cheramy-A\Application\Guides\User guide.pdf"; DestDir: "{app}\User's guide"; Components: user; Languages: english
+
+Source: "C:\Cheramy-A\Application\Guides\Guide usager.pdf"; DestDir: "{app}\Guide de l'usager"; Components: usager; Languages: french
+Source: "C:\Cheramy-A\Application\Guides\PDFFile.ico"; DestDir: "{app}\Guide de l'usager"; Components: usager; Languages: french
+
+Source: "C:\Cheramy-A\Application\Readmes\Readme.ico"; DestDir: "{app}\Readme file"; Components: readme; Languages: english
+Source: "C:\Cheramy-A\Application\Readmes\Readme.txt"; DestDir: "{app}\Readme file"; Components: readme; Languages: english
+
+Source: "C:\Cheramy-A\Application\Readmes\Readme.ico"; DestDir: "{app}\Fichier lisez-moi"; Components: lisezmoi; Languages: french
+Source: "C:\Cheramy-A\Application\Readmes\Lisez-moi.txt"; DestDir: "{app}\Fichier lisez-moi"; Components: lisezmoi; Languages: french
+
+Source: "C:\Cheramy-A\Archive\folder.ico"; DestDir: "{app}\Archive"; Flags: ignoreversion
+Source: "C:\Cheramy-A\Archive\TP1\*.*"; DestDir: "{app}\Archive\TP1"; Flags: ignoreversion
+Source: "C:\Cheramy-A\Archive\TP2\*.*"; DestDir: "{app}\Archive\TP2"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
