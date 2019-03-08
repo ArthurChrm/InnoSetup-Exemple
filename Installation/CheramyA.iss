@@ -16,17 +16,18 @@ AppSupportURL=http://www.Cheramy-A.net/
 AppUpdatesURL=http://www.Cheramy-A.net/
 DefaultDirName={pf}\Cheramy-A 1.0 de Cheramy-A Soft Inc.
 DisableProgramGroupPage=yes
-LicenseFile=C:\Cheramy-A\Application\Licences\Licence_francais.txt
+LicenseFile=C:\Cheramy-A\Application\Licences\LicenceFR.rtf
 OutputDir=C:\Cheramy-A\Installation
 OutputBaseFilename=CheramyASetup
 SetupIconFile=C:\Cheramy-A\Application\Calc.ico
 Password=ayoye
 Compression=lzma
 SolidCompression=yes
+UninstallDisplayIcon={app}\Desinstaller.ico
 
 [Languages]
-Name: "english"; MessagesFile: "compiler:Default.isl"; LicenseFile: C:\Cheramy-A\Application\Licences\License_english.txt
-Name: "french"; MessagesFile: "compiler:Languages\French.isl"; LicenseFile: C:\Cheramy-A\Application\Licences\Licence_francais.txt
+Name: "english"; MessagesFile: "compiler:Default.isl"; LicenseFile: C:\Cheramy-A\Application\Licences\LicenseEN.rtf
+Name: "french"; MessagesFile: "compiler:Languages\French.isl"; LicenseFile: C:\Cheramy-A\Application\Licences\LicenceFR.rtf
 
 [Tasks]
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}";
@@ -38,12 +39,21 @@ Source: "C:\Cheramy-A\Application\Calc.chm"; DestDir: "{app}"; Flags: ignorevers
 Source: "C:\Cheramy-A\Application\Calc.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Cheramy-A\Application\Calc.hlp"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Cheramy-A\Application\Calc.ico"; DestDir: "{app}"; Flags: ignoreversion
+Source: "Desinstaller.ico"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
 Name: "{commonprograms}\Cheramy-A"; Filename: "{app}\Calc.exe"
 Name: "{commondesktop}\Cheramy-A"; Filename: "{app}\Calc.exe"; Tasks: desktopicon
 Name: "{userappdata}\Microsoft\Internet Explorer\Quick Launch\Cheramy-A"; Filename: "{app}\Calc.exe"; Tasks: quicklaunchicon
+
+Name: "{group}\{cm:UninstallProgram,CheramyA}"; Filename: "{uninstallexe}"; IconFilename: "C:\Cheramy-A\Installation\Desinstaller.ico"
+Name: "{group}\{cm:ProgramOnTheWeb,CheramyA}"; Filename: "http://www.Cheramy-A.net/"; IconFilename: "C:\Cheramy-A\Installation\SiteWeb.ico"
+
+[Registry]
+Root:HKCU; Subkey: "Software\Cheramy-A"; Flags: uninsdeletekey
+Root:HKCU; Subkey: "Software\Cheramy-A\Langue"; ValueType: string; ValueName: "Langue"; ValueData: "{language}"
+Root:HKCU; Subkey: "Software\Cheramy-A\Numéro"; ValueType: dword; ValueName: "Numéro"; ValueData: "1"
 
 [Run]
 Filename: "{app}\Calc.exe"; Description: "{cm:LaunchProgram,Cheramy-A}"; Flags: nowait postinstall skipifsilent
