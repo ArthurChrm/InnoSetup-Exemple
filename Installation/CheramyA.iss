@@ -79,5 +79,7 @@ Root:HKCU; Subkey: "Software\Cheramy-A\Langue"; ValueType: string; ValueName: "L
 Root:HKCU; Subkey: "Software\Cheramy-A\Numéro"; ValueType: dword; ValueName: "Numéro"; ValueData: "1"
 
 [Run]
+Filename: "{app}\Readme file\Readme.txt"; Description: "Read Readme file"; Flags: shellexec waituntilterminated postinstall; Components: readme; Languages: english
+Filename: "{app}\Fichier Lisez-moi\Lisez-moi.txt"; Description: "Lire le fichier Lisez-moi"; Flags: shellexec waituntilterminated postinstall; Components: readme; Languages: french
 Filename: "{app}\Calc.exe"; Description: "{cm:LaunchProgram,Cheramy-A}"; Flags: nowait postinstall skipifsilent
 
