@@ -77,7 +77,7 @@ Name: "{group}\User's Guide"; Filename: "{app}\User's Guide\User guide.pdf"; Ico
 Name: "{group}\Guide de l'usager"; Filename: "{app}\Guide de l'usager\Guide usager.pdf"; IconFilename: "{app}\Guide de l'usager\PDFFile.ico"; Components: user; Languages: french
 
 Name: "{group}\Readme file"; Filename: "{app}\Readme file\Readme.txt"; IconFilename: "{app}\Readme file\Readme.ico"; Components: readme; Languages: english
-Name: "{group}\Fichier lisez-moi"; Filename: "{app}\Fichier lisez-moi\Lisez-moi.txt"; IconFilename: "{app}\Fichier lisez-moi\Readme.ico"; Components: readme; Languages: french
+Name: "{group}\Fichier lisez-moi"; Filename: "{app}\Fichier lisez-moi\Lisez-moi.txt"; IconFilename: "{app}\Fichier lisez-moi\Readme.ico"; Components: lisezmoi; Languages: french
 
 Name: "{group}\TP1"; Filename: "{app}\Archive\TP1"; IconFilename: "{app}\Archive\folder.ico"
 Name: "{group}\TP2"; Filename: "{app}\Archive\TP2"; IconFilename: "{app}\Archive\folder.ico"
@@ -94,6 +94,6 @@ Root:HKCU; Subkey: "Software\Cheramy-A\Numéro"; ValueType: dword; ValueName: "Nu
 
 [Run]
 Filename: "{app}\Readme file\Readme.txt"; Description: "Read Readme file"; Flags: shellexec waituntilterminated postinstall; Components: readme; Languages: english
-Filename: "{app}\Fichier Lisez-moi\Lisez-moi.txt"; Description: "Lire le fichier Lisez-moi"; Flags: shellexec waituntilterminated postinstall; Components: readme; Languages: french
+Filename: "{app}\Fichier lisez-moi\Lisez-moi.txt"; Description: "Lire le fichier Lisez-moi"; Flags: shellexec waituntilterminated postinstall; Components: lisezmoi; Languages: french
 Filename: "{app}\Calc.exe"; Description: "{cm:LaunchProgram,Cheramy-A}"; Flags: nowait postinstall skipifsilent
 
