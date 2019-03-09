@@ -23,6 +23,10 @@ SetupIconFile=C:\Cheramy-A\Application\Calc.ico
 Password=ayoye
 Compression=lzma
 SolidCompression=yes
+DiskClusterSize=512
+SlicesPerDisk=1
+DiskSliceSize=18000000
+DiskSpanning=yes
 UninstallDisplayIcon={app}\Desinstaller.ico
 
 [Components]
@@ -75,9 +79,8 @@ Name: "{group}\Guide de l'usager"; Filename: "{app}\Guide de l'usager\Guide usag
 Name: "{group}\Readme file"; Filename: "{app}\Readme file\Readme.txt"; IconFilename: "{app}\Readme file\Readme.ico"; Components: readme; Languages: english
 Name: "{group}\Fichier lisez-moi"; Filename: "{app}\Fichier lisez-moi\Lisez-moi.txt"; IconFilename: "{app}\Fichier lisez-moi\Readme.ico"; Components: readme; Languages: french
 
-
-
-
+Name: "{group}\TP1"; Filename: "{app}\Archive\TP1"; IconFilename: "{app}\Archive\folder.ico"
+Name: "{group}\TP2"; Filename: "{app}\Archive\TP2"; IconFilename: "{app}\Archive\folder.ico"
 
 Name: "{userappdata}\Microsoft\Internet Explorer\Quick Launch\Cheramy-A"; Filename: "{app}\Calc.exe"; Tasks: quicklaunchicon
 
