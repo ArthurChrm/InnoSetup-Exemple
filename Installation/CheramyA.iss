@@ -66,8 +66,19 @@ Source: "C:\Cheramy-A\Archive\TP2\*.*"; DestDir: "{app}\Archive\TP2"; Flags: ign
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
-Name: "{commonprograms}\Cheramy-A"; Filename: "{app}\Calc.exe"
+Name: "{group}\Cheramy-A"; Filename: "{app}\Calc.exe"; IconFilename: "{app}\Calc.ico"
 Name: "{commondesktop}\Cheramy-A"; Filename: "{app}\Calc.exe"; Tasks: desktopicon
+
+Name: "{group}\User's Guide"; Filename: "{app}\User's Guide\User guide.pdf"; IconFilename: "{app}\User's guide\PDFFile.ico"; Components: user; Languages: english
+Name: "{group}\Guide de l'usager"; Filename: "{app}\Guide de l'usager\Guide usager.pdf"; IconFilename: "{app}\Guide de l'usager\PDFFile.ico"; Components: user; Languages: french
+
+Name: "{group}\Readme file"; Filename: "{app}\Readme file\Readme.txt"; IconFilename: "{app}\Readme file\Readme.ico"; Components: readme; Languages: english
+Name: "{group}\Fichier lisez-moi"; Filename: "{app}\Fichier lisez-moi\Lisez-moi.txt"; IconFilename: "{app}\Fichier lisez-moi\Readme.ico"; Components: readme; Languages: french
+
+
+
+
+
 Name: "{userappdata}\Microsoft\Internet Explorer\Quick Launch\Cheramy-A"; Filename: "{app}\Calc.exe"; Tasks: quicklaunchicon
 
 Name: "{group}\{cm:UninstallProgram,CheramyA}"; Filename: "{uninstallexe}"; IconFilename: "C:\Cheramy-A\Installation\Desinstaller.ico"
