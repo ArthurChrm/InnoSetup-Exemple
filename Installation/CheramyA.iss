@@ -27,6 +27,7 @@ DiskClusterSize=512
 SlicesPerDisk=1
 DiskSliceSize=18000000
 DiskSpanning=yes
+DefaultGroupName=Cheramy-A
 UninstallDisplayIcon={app}\Desinstaller.ico
 
 [Components]
