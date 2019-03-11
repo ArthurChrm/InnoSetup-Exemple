@@ -75,7 +75,7 @@ Name: "{group}\Cheramy-A"; Filename: "{app}\Calc.exe"; IconFilename: "{app}\Calc
 Name: "{commondesktop}\Cheramy-A"; Filename: "{app}\Calc.exe"; Tasks: desktopicon
 
 Name: "{group}\User's Guide"; Filename: "{app}\User's Guide\User guide.pdf"; IconFilename: "{app}\User's guide\PDFFile.ico"; Components: user; Languages: english
-Name: "{group}\Guide de l'usager"; Filename: "{app}\Guide de l'usager\Guide usager.pdf"; IconFilename: "{app}\Guide de l'usager\PDFFile.ico"; Components: user; Languages: french
+Name: "{group}\Guide de l'usager"; Filename: "{app}\Guide de l'usager\Guide usager.pdf"; IconFilename: "{app}\Guide de l'usager\PDFFile.ico"; Components: usager; Languages: french
 
 Name: "{group}\Readme file"; Filename: "{app}\Readme file\Readme.txt"; IconFilename: "{app}\Readme file\Readme.ico"; Components: readme; Languages: english
 Name: "{group}\Fichier lisez-moi"; Filename: "{app}\Fichier lisez-moi\Lisez-moi.txt"; IconFilename: "{app}\Fichier lisez-moi\Readme.ico"; Components: lisezmoi; Languages: french
