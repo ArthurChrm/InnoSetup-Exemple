@@ -1,6 +1,0 @@
-desinstalller.ico
-script iss
-setup.exe
-setup_1.bin
-setup_2.bin
-siteweb.ico

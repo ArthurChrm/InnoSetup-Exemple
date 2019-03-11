@@ -1,0 +1,763 @@
+==================================
+EUDORA POUR WINDOWS, VERSION 5.0.2
+==================================
+
+Ce fichier LISEZ-MOI fournit des informations sur les sujets 
+suivants :
+
+- Configuration minimale requise
+- Installation
+- Nouvelles fonctionnalités dans Eudora 5.0.2
+- Eudora et Windows 2000
+- Remarques concernant Eudora et :
+    * Apple QuickTime et
+    * Microsoft Internet Explorer
+- Si l'action du filtre "Parler" est en grisé.
+- Remarques sur la sécurité
+- Problèmes connus
+- Signalement de bogues
+- Demandes de nouvelles fonctionnalités
+- Notes du développeur
+- Contrat de licence du logiciel Eudora version 5.0.2
+
+Veuillez consulter le fichier RelNotes.txt pour obtenir des 
+informations détaillées sur les modifications, le débogage, et les 
+problèmes déjà rencontrés. (Un seul fichier texte contenant toutes 
+les informations des fichiers Lisez-moi.txt et Relnotes.txt serait 
+trop volumineux pour pouvoir être ouvert dans le Bloc-notes sur 
+certains systèmes.)
+
+
+-----------------------------
+CONFIGURATION MINIMUM REQUISE
+-----------------------------
+
+Pour utiliser Eudora version 5.0.2 pour Windows, vous devez disposer 
+des éléments suivants :
+
+-  Un PC IBM ou compatible.
+-  Microsoft Windows 95/98/2000/Me ou Windows NT version 4.0 ou 
+   supérieure.
+-  Un compte de messagerie (POP ou IMAP) avec un fournisseur 
+   de services Internet ou par le biais d'un réseau d'entreprise.
+-  Un accès à votre compte de messagerie via (1) une connexion par 
+   modem à votre fournisseur de services Internet ou (2) via une 
+   connexion directe au réseau Internet.
+
+
+------------
+INSTALLATION
+------------
+
+Pour installer Eudora :
+
+1.  Après avoir téléchargé le programme d'installation, fermez 
+    toutes les applications en cours d'exécution.
+
+2.  Dans la barre des tâches de Windows, cliquez sur le bouton 
+    Démarrer, sélectionnez Exécuter..., puis cliquez sur le bouton 
+    "Parcourir".
+
+3.  Indiquez le dossier dans lequel vous avez enregistré votre 
+    programme d'installation. Sélectionnez le fichier correspondant,
+    puis cliquez sur "OK".
+
+4.  Lisez l'écran de bienvenue, puis cliquez sur le bouton Suivant.
+
+    Pour la suite de la procédure d'installation, cliquez sur le 
+    bouton Suivant pour passer à l'étape suivante, ou cliquez sur le
+    bouton Précédent pour revenir à l'étape précédente.
+ 
+5.  Lisez le contrat de licence du logiciel, et si vous êtes 
+    d'accord avec les clauses qu'il contient, cliquez sur Oui. Après
+    l'installation d'Eudora, une copie du contrat de licence est 
+    disponible dans le fichier Licence.txt de votre répertoire 
+    Eudora.
+
+6.  Sélectionnez les composants que vous souhaitez installer.
+
+7.  Spécifiez le dossier dans lequel installer Eudora (le programme
+    d'installation fait référence à celui-ci en tant que Dossier de 
+    destination du programme), puis cliquez sur Suivant.
+
+8.  Spécifiez un dossier dans lequel stocker les fichiers de données 
+    Eudora (tels que le courrier, les paramètres, les carnets 
+    d'adresses et les pièces jointes).
+    Le programme d'installation fait référence à ce celui-ci en tant 
+    que Dossier de destination des données.
+    REMARQUE : si vous utilisez déjà Eudora sur cet ordinateur, 
+    assurez-vous de spécifier le dossier dans lequel les fichiers de
+    données Eudora existants sont stockés.
+
+9.  Le programme d'installation affiche une nouvelle fois le Dossier
+    de destination du programme et le Dossier de destination des 
+    données. Utilisez le bouton Précédent si vous souhaitez revenir 
+    en arrière pour les modifier. Cliquez sur le bouton Suivant pour
+    continuer l'installation.
+
+10. Eudora est installé dans le répertoire de destination.
+
+11. Le programme d'installation vous propose de placer un raccourci 
+    vers Eudora sur votre bureau.
+
+12. Le programme d'installation vous propose d'afficher le fichier 
+    Lisez-moi (le présent document).
+
+13. Le programme d'installation vous propose d'accéder à la page de 
+    téléchargement des accessoires dans votre navigateur Web. Vous 
+    pouvez y télécharger des outils supplémentaires, tels que 
+    Microsoft Internet Explorer et Apple QuickTime, permettant 
+    d'utiliser Eudora plus efficacement. L'interaction entre Eudora 
+    et ces deux applications est décrite plus bas.
+
+14. Après l'installation, nous vous recommandons de consulter les 
+    fichiers Lisez-moi.txt et Relnotes.txt situés dans le répertoire
+    Eudora.
+
+
+-------------------------------------------
+NOUVELLES FONCTIONNALITES DANS EUDORA 5.0.x
+-------------------------------------------
+
+Pour plus d'informations sur les nouvelles fonctionnalités dans 
+Eudora 5.0.2, veuillez lire le fichier Nouveautés.pdf situé dans le 
+répertoire Eudora. Vous aurez besoin d'une application permettant 
+d'afficher les fichiers .PDF (format développé par Adobe), telle 
+qu'Adobe Acrobat Reader. Vous pouvez obtenir Acrobat Reader sur le 
+site <www.adobe.com> ou <www.eudora.com/download/other>.
+
+__Protocole de partage Eudora (ESP)__
+
+ESP est une fonctionnalité qui vous permet de partager des documents
+et des discussions facilement au sein d'un groupe d'utilisateurs 
+Eudora appelé Groupe de partage. Chaque membre du groupe de partage 
+dispose de ses propres copies locales des documents partagés par le 
+groupe et ESP conserve automatiquement toutes ces copies 
+synchronisées les unes avec les autres. Il s'agit d'un outil 
+inestimable pour toutes sortes d'équipes et de projets, y compris 
+les membres d'une famille qui veulent simplement s'envoyer des 
+photos récentes régulièrement.
+
+ESP n'est pas disponible en mode Light.
+
+___Contrôle du ton (MoodWatch)___
+
+Le contrôle du ton est une fonctionnalité qui avertit l'utilisateur 
+lorsque son brouillon de courrier contient du texte pouvant être 
+injurieux. Cette fonctionnalité permet également de marquer les 
+messages entrants pouvant contenir du texte injurieux. Elle indique 
+le ton employé selon une échelle graduée utilisant de un à trois 
+piments rouges (les trois piments représentant bien sûr le ton le 
+plus "chaud").
+
+La fonctionnalité de contrôle du ton classe les messages à l'aide 
+d'un algorithme basé sur un dictionnaire. (A ce propos, les données 
+du dictionnaire sont très embrouillées, donc personne de trouvera de
+"gros mots" sur votre ordinateur après que vous ayez installé Eudora
+5.0.2.)
+
+Pour définir les paramètres de cette fonctionnalité, cliquez sur le 
+menu Outils, sélectionnez Options, puis Contrôle du ton.
+
+La fonctionnalité de contrôle du ton n'est pas disponible en mode 
+Light.
+
+___Statistiques___
+
+Eudora affiche à présent des statistiques sur les courriers que vous
+envoyez et recevez et sur le temps que vous passez dans Eudora. Pour
+les consulter, sélectionnez simplement Statistiques dans le menu 
+Outils. Un menu situé en haut de la fenêtre vous permet de 
+visualiser les statistiques sur un jour, une semaine, un mois ou une
+année à la fois.
+
+La fenêtre des statistiques n'est pas disponible en mode Light.        
+
+___Carnet d'adresses amélioré___
+
+La présentation du carnet d'adresses Eudora a été modifiée :
+- Les onglets Adresse(s), Notes, et Info ont été remplacés par les 
+  onglets Personnel, Domicile, Bureau, Autres et Note et de nombreux
+  champs ont été ajoutés pour contenir les informations concernant 
+  les personnes avec lesquelles vous correspondez.
+- L'option "Afficher par" vous permet d'obtenir un affichage en 
+  fonction de n'importe quel champ contenu sur les onglets 
+  Personnel, Domicile ou Bureau.
+- Il existe à présent un bouton "Nouveau carnet" distinct pour la 
+  création d'un nouveau carnet d'adresses.
+- La boîte de dialogue Créer une entrée de carnet d'adresses, 
+  obtenue via le menu Spécial, vous permet de saisir des 
+  informations supplémentaires. 
+- Les fenêtres d'importation de carnet d'adresses ont été modifiées 
+  pour permettre d'importer tous les champs appropriés dans le 
+  carnet d'adresse Eudora.
+
+___Signatures modifiables dans le texte___
+
+Par défaut, la signature que vous avez sélectionnée (le cas échéant)
+est à présent visible dans le message pendant que vous le composez 
+et peut être modifiée avec le reste du texte. Auparavant, les 
+signatures n'étaient pas visibles dans la fenêtre de composition.
+
+Le corps du message est séparé de la signature intégrée par une 
+ligne horizontale grise. Si vous modifiez votre message, 
+assurez-vous de le faire au-dessus de la ligne horizontale. Toute 
+modification effectuée au-dessous de celle-ci est considérée comme 
+une modification de la signature affichée.
+
+Veuillez noter que la modification d'une signature intégrée ne 
+change pas la signature enregistrée dans la fenêtre Signatures. Les 
+modifications sont apportées uniquement à la signature affichée. 
+
+Pour désactiver cette fonctionnalité et utiliser les signatures 
+comme auparavant, désélectionnez la case "Afficher la signature lors
+de la composition" de la boîte de dialogue Composition du courrier 
+(Menu Outils, Options).
+
+Cette fonctionnalité n'est pas disponible en mode Light.
+
+___Fenêtre des pubs mobile___
+
+La fenêtre des pubs du mode Sponsorisé est à présent flottante et
+peut être ancrée ailleurs. Lorsque vous cliquez sur la pub à l'aide 
+du bouton droit de la souris, un menu contenant uniquement l'option
+"Autoriser l'ancrage" apparaît. Lorsque cette option est cochée, 
+cela signifie que la pub peut être ancrée. Vous pouvez activer ou 
+désactiver cette option simplement en cliquant sur ce menu.
+
+Lorsque la fenêtre des pubs est ancrée, vous pouvez la déplacer 
+à l'aide de la double barre habituellement située au sommet. Lorsque
+la fenêtre n'est pas ancrée, vous pouvez la déplacer à l'aide de la 
+barre (généralement bleue) située de part et d'autre du sommet, 
+comme toute autre fenêtre.
+
+Il existe une barre des tâches relative à la fenêtre des pubs qui 
+vous permet d'accéder rapidement à ses fonctionnalités. 
+
+
+----------------------
+EUDORA ET WINDOWS 2000
+----------------------
+
+Le modèle de sécurité de Windows 2000 nous a contraint à modifier 
+la façon dont Eudora est installé et sa façon de déterminer
+l'endroit où créer les fichiers de données, y compris les boîtes aux
+lettres, les pièces jointes, les carnets d'adresses, etc.
+
+Sur un système Windows 2000, seule une personne disposant des 
+privilèges Administrateur (ci-après appelé Administrateur) peut 
+installer un logiciel dans le dossier Program Files. Quelqu'un 
+disposant des privilèges Utilisateur (ci-après appelé Utilisateur) 
+ne peut pas effectuer une telle opération. En fait, un programme 
+lancé par un Utilisateur ne peut stocker aucune donnée dans le 
+dossier Program Files ni dans aucun de ses sous-dossiers. 
+Malheureusement, c'est exactement ce que tenteraient de faire par 
+défaut les précédentes versions d'Eudora. Par conséquent, si un 
+Administrateur a installé Eudora et qu'un Utilisateur tente de 
+l'exécuter, le programme ne fonctionnera pas correctement.
+
+Avec Eudora 5.0.2 sous Windows 2000, l'emplacement par défaut dans 
+lequel installer l'application est toujours sous Program Files, mais
+les fichiers de données sont conservés dans un dossier de données 
+d'applications utilisateur (généralement 
+"C:\Documents et paramètres\<nom d'utilisateur>\Données 
+d'applications", où <nom d'utilisateur> correspond au nom de 
+connexion de l'utilisateur). Le programme d'installation vous permet
+de choisir un autre emplacement dans lequel Eudora stockera les 
+données. Si seul un Administrateur est appelé à exécuter Eudora, les
+données peuvent être stockées n'importe où, mais si un Utilisateur 
+est appelé à exécuter Eudora, les données seront alors stockées dans
+le dossier de données d'applications utilisateur.
+
+___Recherche de votre dossier de données___
+
+Le dossier des données d'applications de Windows 2000 est 
+généralement doté de l'attribut "caché", ce qui le rend invisible 
+dans Windows Explorer ou dans Poste de travail (à moins que vous 
+ayez configuré ses outils pour qu'ils affichent les objets cachés).
+Vous pouvez cependant avoir de bonnes raisons d'explorer le dossier 
+dans lequel vos données Eudora sont stockées (plus particulièrement,
+les pièces jointes reçues sont stockées à cet endroit, à moins bien 
+sûr que vous ayez indiqué à Eudora de les stocker ailleurs). Pour 
+vous faciliter la tâche, Eudora crée un raccourci vers votre dossier
+de données Eudora dans le dossier parent du dossier des données 
+d'applications, qui est généralement 
+"C:\Documents et paramètres\<nom d'utilisateur>".
+
+___Comment exactement Eudora détermine son dossier de données___
+
+Vous trouverez ci-dessous la séquence exacte selon laquelle Eudora 
+détermine dans quel dossier conserver ses fichiers de données. Cela 
+s'applique à toutes les versions de Windows. La plupart des 
+utilisateurs n'auront pas besoin de tous ses détails, mais nous vous
+les livrons quand même, juste au cas où... :
+
+1. Lorsqu'un dossier est spécifié sur la ligne de commande d'Eudora,
+   alors Eudora utilise ce dossier.
+
+2. Si un fichier DEudora.ini existe dans le dossier de programme,
+   que la section [Settings] de ce fichier contient un paramètre 
+   DataFolder et que le dossier spécifié par ce paramètre contient 
+   un fichier Eudora.ini, alors Eudora utilise ce dossier.
+
+3. Si le dossier de programme (c'est-à-dire le dossier dans lequel 
+   Eudora est installé) contient un fichier Eudora.ini, alors Eudora
+   utilise ce dossier.
+
+4. S'il n'existe pas d'entrée UseAppData=1 dans la section 
+   [Settings] du fichier DEudora.ini du dossier de programme et 
+   qu'une des clés de registre répertoriées ci-dessous spécifie un 
+   dossier, alors Eudora utilise ce dossier. (Si les deux clés 
+   répertorient un dossier, la première est prioritaire.)
+    \\HKEY_CURRENT_USER\Software\Qualcomm\Eudora\CommandLine 
+    \\HKEY_CLASSES_ROOT\Software\Qualcomm\Eudora\CommandLine\Current
+
+5. Si le système est doté de la version 4.71 ou supérieure de 
+   Shell32.dll, Eudora utilise le dossier de données d'applications 
+   courant.
+
+6. Autrement, Eudora utilise le dossier de programme.
+
+Comme suggéré dans le paragraphe 5 ci-dessus, la capacité d'Eudora 
+à utiliser votre dossier de données d'applications dépend 
+complètement de la version de Shell32.dll que vous utilisez (4.71 ou
+supérieure). C'est toujours le cas lorsque vous utilisez Windows 
+2000 et c'est également vrai si vous avez installé la version 4.0 ou 
+supérieure de Microsoft Internet Explorer et que vous avez inclus 
+l'interface intégrée dans cette installation.
+
+
+-----------------------------------
+REMARQUES CONCERNANT EUDORA ET :
+      * APPLE QUICKTIME
+      * MICROSOFT INTERNET EXPLORER
+-----------------------------------
+
+La visionneuse de messages standard d'Eudora prend en charge les 
+éléments HTML de base tels que la mise en forme de texte et 
+l'intégration des images (affichage des images dans le corps du 
+message plutôt que dans une fenêtre séparée). Les formats pris en 
+charge comprennent, entre autres, les fichiers .BMP, .JPG, et .PNG. 
+L'installation de l'application Apple QuickTime enrichit la 
+visionneuse standard en permettant l'affichage intégré d'une plus 
+grande gamme de formats d'image, y compris les fichiers .GIF. 
+L'installation de Microsoft Internet Explorer (IE) version 4.0 ou 
+supérieure ajoute à Eudora une visionneuse de messages (ci-après, 
+la visionneuse Microsoft) capable d'afficher avec précision tous les
+messages HTML que vous pouvez recevoir.
+
+Vous pouvez trouver le programme d'installation pour QuickTime sur 
+le site Web d'Eudora à l'adresse 
+<http://eudora.qualcomm.com/download/other>. Vous pouvez obtenir 
+Internet Explorer sur le site Web de Microsoft à l'adresse 
+<http://www.microsoft.com>.
+
+* Pourquoi afficher des messages HTML ?
+
+Les messages HTML (messages électroniques utilisant HTML, le langage
+pratiqué dans les pages Web) sont de plus en plus courants. Les 
+plupart des navigateurs Web permettent d'envoyer une page Web sous 
+la forme d'un message HTML. Supposons que vous receviez un message 
+HTML comportant une mise en forme avancée (par exemple, des 
+tableaux). Pour pouvoir visualiser le message tel qu'il a été conçu 
+par l'expéditeur, vous devrez indiquer à Eudora d'utiliser la 
+visionneuse Microsoft au lieu de sa visionneuse de messages 
+standard.
+
+* Si Eudora possède deux visionneuses, comment indiquer laquelle 
+  utiliser ?
+
+Il vous suffit d'activer ou de désactiver la case à cocher "Utiliser
+la visionneuse Microsoft" dans le panneau Affichage du courrier de 
+la boîte de dialogue Options, accessible via le menu Outils 
+d'Eudora. La case est cochée par défaut si Internet Explorer version
+4.0 ou supérieure est installé sur votre système. Si Internet 
+Explorer version 3.0 ou supérieure n'est pas installé sur votre 
+système, la case n'est pas disponible et vous pouvez utiliser 
+uniquement la visionneuse standard ; vous pouvez cependant améliorer
+ses performances avec QuickTime, comme indiqué ci-dessous.
+
+* Que se passe-t-il si Internet Explorer est déjà installé ?
+
+Si Internet Explorer, version 4.0 ou supérieure, est déjà installé 
+dans votre système, Eudora l'utilise automatiquement, à condition 
+que vous ayez coché la case "Utiliser la visionneuse Microsoft" 
+comme expliqué ci-dessus.
+
+Si Internet Explorer 3.0 est déjà installé dans votre système, vous 
+avez deux options :
+
+1. Vous pouvez mettre votre système à niveau avec une version plus 
+récente d'Internet Explorer.
+2. Vous pouvez garder IE 3.0, auquel cas Eudora l'utilise si vous 
+choisissez "Utiliser la visionneuse Microsoft" dans la boîte de 
+dialogue Options d'Eudora. Cependant, vous ne disposez pas de toutes
+les fonctionnalités offertes par la visionneuse Internet Explorer 
+4.0 (ni même la visionneuse standard) - voir le détail ci-dessous.
+
+Si une version d'Internet Explorer antérieure à la version 3.0 est 
+installée dans votre système, l'installation d'Internet Explorer 4.0
+ne l'affectera pas. Toutefois, vous devez au minimum disposer 
+d'Internet Explorer version 3.0 pour que l'option "Utiliser la 
+visionneuse Microsoft" prenne effet.
+
+* Que prend en charge la visionneuse standard d'Eudora ?
+
+  + Le texte en gras, en italique, et souligné
+  + Différentes polices, tailles et couleurs de caractères
+  + Le texte de largeur fixe
+  + Justification à gauche et à droite ainsi que le centrage
+  + Plusieurs niveaux de retrait
+  + Les listes à puces
+  + Les liens hypertexte (cliquer sur une URL lance votre navigateur
+    et vous amène à la page Web correspondante)
+  + Les lignes horizontales
+  + L'affichage intégré des images BMP et de certaines images JPEG 
+    et PNG
+
+* Qu'est-ce que QuickTime apporte de plus à la visionneuse standard ?
+
+  + L'affichage intégré d'une plus grande gamme d'images, notamment 
+    l'ensemble
+    des formats JPEG, GIF, TIFF, Macintosh PICT, etc.
+
+* Quels éléments prend en charge la visionneuse Microsoft que ne 
+   prend pas en 
+   charge la visionneuse standard ?
+
+  + L'affichage intégré d'une plus grande gamme d'images JPEG et GIF
+  + L'affichage intégré automatique des images de sites Web
+  + Les listes numérotées
+  + Les tableaux et les formulaires
+  + Les jeux de caractères internationaux
+  + Les applications Java, JavaScript, et les contrôles ActiveX
+  + Dynamic HTML (pas si vous utilisez Internet Explorer 3.0)
+  + D'autres objets incorporés (audio, vidéo)
+  + Contrairement à QuickTime, elle n'affiche pas les images 
+    Macintosh PICT
+
+* Que ne peut PAS FAIRE Eudora si vous utilisez la version 3.0 
+   d'Internet Explorer au lieu de la version 4.0 ?
+
+  + Prendre en charge Dynamic HTML
+  + Modifier les messages reçus
+  + Exécuter les plug-ins Eudora (tels que les traducteurs de texte)
+    sur les messages reçus
+
+Si vous utilisez Internet Explorer 3.0, vous pouvez quand même 
+modifier les messages reçus et leur appliquer les plug-ins, en 
+sélectionnant au préalable la visionneuse standard en désactivant 
+l'option "Utiliser la visionneuse Microsoft" dans la boîte de 
+dialogue Options.
+
+
+---------------------------------------
+SI LE FILTRE "PARLER" APPARAIT EN GRISE
+---------------------------------------
+
+Vous avez l'option, lorsque vous définissez un filtre, de faire dire
+à Eudora le sujet et/ou le nom de l'expéditeur chaque fois qu'un
+message est filtré. (Dans le cas d'un filtre sortant, Eudora 
+annoncera le nom du destinataire plutôt que celui de l'expéditeur.)
+
+Pour utiliser cette fonction, vous devez disposer d'une carte son et
+d'un pilote de carte son compatibles avec votre version de Windows. 
+Vous devrez également installer l'Interface de programmation 
+d'applications vocales (Speech Application Programming Interface, 
+SAPI) de Microsoft et un moteur de synthèse vocale compatible SAPI.
+
+En l'absence de ces composants sur votre ordinateur, l'action Parler
+apparaîtra en grisé dans la fenêtre Filtres. Vous pouvez y remédier 
+en installant SAPI et le moteur de synthèse vocale Microsoft ; des 
+programmes d'installation pour ces deux composants sont disponibles 
+sur le Web à l'adresse <http://www.eudora.com/download/other>, sous 
+la rubrique "Installing Microsoft's Text-to-Speech Engine".
+
+
+------------------------
+REMARQUE SUR LA SECURITE
+------------------------
+
+Les attaques perpétrées par de récents virus sur les messageries 
+électroniques, notamment les célèbres "Melissa" et "I Love You", ont
+amené professionnels et utilisateurs à se pencher avec prudence sur 
+les problèmes de sécurité liés au courrier électronique. Pour une 
+protection maximale, nous vous recommandons de procéder comme suit :
+
+1. Définissez un répertoire de pièces jointes Eudora différent
+   du répertoire par défaut.
+2. Désactivez JavaScript dans votre navigateur Internet.
+3. Activez l'option "(M'avertir lorsque) Je lance un programme à 
+   partir d'un message" dans Outils/Options/Avertissements 
+   supplémentaires.
+4. Désactivez "Autoriser les exécutables contenus dans les messages 
+   HTML" dans Outils/Options/Affichage du courrier.
+
+Consultez la page <http://eudora.qualcomm.com/security.html> pour 
+obtenir des informations supplémentaires, notamment des instructions
+sur la manière de changer votre répertoire de pièces jointes Eudora.
+
+
+----------------
+PROBLEMES CONNUS
+----------------
+
+1.  Eudora n'a pas de prise en charge double moniteur.
+
+2.  Les pourcentages d'utilisation contenus dans les statistiques 
+    risquent de ne pas être précis si vous utilisez Eudora pendant 
+    une longue période sans passer à une application différente ni 
+    laisser Eudora inactif pendant 60 secondes.    
+
+3.  Les Services d'annuaire Eudora ne prennent pas en charge la 
+    version 3+ de LDAP.
+
+4.  Eudora pense parfois qu'une communication Internet est établie 
+    alors que cela n'est pas le cas.
+
+5.  L'utilisation d'une action de réponse avec filtre avec un 
+    message d'origine en texte standard entraîne l'apparition du 
+    marqueur </x-html> à la fin de la réponse. 
+
+6.  L'affichage du dossier de la boîte aux lettres ESP ne permet pas
+    de renommer les sous-dossiers. Pour ce faire, vous devez 
+    sélectionner Ouvrir un dossier dans le menu Actions du groupe de
+    partage.
+
+7.  Les icônes de la barre d'outils ne s'affichent pas correctement 
+    sur quelques systèmes.
+
+8.  Les piments de la fonctionnalité de contrôle du ton ne 
+    s'affichent pas, ou s'affichent de façon très pâle dans certains
+    schémas de couleurs Windows, tels que "Prune (65536 couleurs)".
+
+
+---------------------
+SIGNALEMENT DE BOGUES
+---------------------
+
+Si vous êtes confronté à un problème et que vous pensez qu'il puisse
+s'agir d'un bogue d'Eudora, veuillez le signaler en envoyant un 
+message à win-eudora-bugs-fr@qualcomm.com. Un modèle est à votre 
+disposition pour signaler les bogues (Menu Aide/Signaler un bogue).
+Décrivez les actions effectuées, leurs conséquences, la version 
+d'Eudora que vous possédez, tous les messages d'erreur affichés par 
+Eudora (les numéros entre parenthèses ( ) sont particulièrement 
+importants), le type d'ordinateur que vous possédez, le système 
+d'exploitation que vous utilisez et tout autre élément que vous 
+jugerez pertinent. Un moyen simple d'incorporer les informations 
+concernant votre système consiste à sélectionner Aide/Insérer la 
+configuration système pendant que vous composez votre message dans 
+Eudora.
+
+Vous recevrez une réponse automatisée vous indiquant que votre 
+rapport sur le bogue a été reçu et transmis à nos ingénieurs. 
+A moins que des informations supplémentaires ne soient nécessaires, 
+vous ne recevrez pas de réponse directe.  Si vous êtes confronté à 
+un problème avec Eudora, sélectionnez Aide/Assistance technique dans
+Eudora pour plus d'informations sur l'obtention d'aide 
+supplémentaire.
+
+
+-------------------------------------
+DEMANDES DE NOUVELLES FONCTIONNALITÉS
+-------------------------------------
+
+Veuillez envoyer toutes vos suggestions ou demandes de nouvelles 
+fonctionnalités à eudora-suggest@qualcomm.com.
+
+Vous recevrez une réponse automatisée vous indiquant que vos 
+suggestions ont été reçues et transmises à nos ingénieurs. 
+A moins que des informations supplémentaires ne soient nécessaires, 
+vous ne recevrez pas de réponse directe.  Si vous êtes confronté à 
+un problème avec Eudora, sélectionnez Aide/Assistance technique 
+dans Eudora pour plus d'informations sur l'obtention d'aide 
+supplémentaire.
+
+
+--------------------
+NOTES DU DEVELOPPEUR
+--------------------
+
+Eudora est une véritable carte postalogicielle !
+
+Si vous appréciez Eudora et voulez nous le faire savoir 
+personnellement, envoyez-nous une carte postale à l'adresse 
+suivante :
+
+Jeff Beckley
+QUALCOMM Incorporated
+5775 Morehouse Drive
+San Diego, CA  92121-1714
+USA
+
+Les cartes postales en rapport avec l'endroit où vous vivez sont
+les bienvenues, car elles nous permettent d'avoir un panorama de 
+tous les lieux où Eudora est utilisé. Les cartes originales ou 
+manifestant un certain humour sont nos préférées, et qui sait, nous
+pouvons très bien décider que la carte postale de quelqu'un est 
+assez intéressante pour que nous l'invitions à devenir un testeur 
+bêta privé d'Eudora.
+
+
+---------------------------------------------------
+CONTRAT DE LICENCE DU LOGICIEL EUDORA VERSION 5.0.2
+---------------------------------------------------
+
+QUALCOMM INCORPORATED ("QUALCOMM") EST DISPOSE A VOUS ACCORDER
+UNE LICENCE POUR LA VERSION 5.0.2 DE SON LOGICIEL EUDORA® ET
+POUR LA DOCUMENTATION QUI L'ACCOMPAGNE (LE "LOGICIEL") A LA
+SEULE CONDITION QUE VOUS ACCEPTIEZ TOUTES LES CLAUSES DE CE
+CONTRAT. VEUILLEZ LIRE CES CLAUSES ATTENTIVEMENT. EN CLIQUANT
+SUR LE BOUTON "OUI" CI-DESSOUS, VOUS RECONNAISSEZ AVOIR LU
+CE CONTRAT, L'AVOIR COMPRIS ET ACCEPTEZ D'ETRE LIE PAR SES
+CLAUSES ET CONDITIONS. SI VOUS N'ACCEPTEZ PAS CES CLAUSES,
+QUALCOMM NE PEUT PAS VOUS ACCORDER DE LICENCE POUR LE LOGICIEL.
+VOUS DEVEZ CLIQUER SUR LE BOUTON "NON" POUR ARRETER
+L'INSTALLATION.
+
+LE LOGICIEL EST DISPONIBLE EN 3 MODES : MODE LIGHT (gratuit;
+fonctionnalités disponibles réduites), MODE SPONSORISE (gratuit;
+totalité des fonctionnalités disponibles, avec une fenêtre sponsor)
+ET MODE PAYE (paiement d'une cotisation annuelle; totalité 
+des fonctionnalités disponibles, sans fenêtre sponsor).
+POUR POUVOIR UTILISER LE LOGICIEL EN MODE SPONSORISE, VOUS 
+DEVREZ REMPLIR UN QUESTIONNAIRE DE PROFIL APRES UNE PERIODE D'ESSAI.
+VEUILLEZ NOTER QUE LA POLITIQUE DE CONFIDENTIALITE D'EUDORA 
+(http://www.eudora.com/privacy) REGIT L'UTILISATION QUE FAIT 
+QUALCOMM DES INFORMATIONS CONTENUES DANS LE PROFIL. SI VOUS 
+CHOISISSEZ DE NE PAS COMPLETER LE QUESTIONNAIRE DE PROFIL A LA FIN 
+DE LA PERIODE D'ESSAI, VOTRE COPIE D'EUDORA REPASSERA EN MODE LIGHT. 
+DANS L'EVENTUALITE OU QUALCOMM LANCE DE NOUVELLES VERSIONS DU 
+LOGICIEL, CES NOUVELLES VERSIONS DU LOGICIEL EN MODE SPONSORISE 
+SERONT DISPONIBLES GRATUITEMENT A L'ADRESSE WWW.EUDORA.COM. LES 
+UTILISATEURS DU LOGICIEL EN MODE PAYE ENREGISTRES SONT AUTORISES A 
+TELECHARGER GRATUITEMENT LES NOUVELLES VERSIONS DU LOGICIEL EN MODE 
+PAYE SORTIES DANS UNE PERIODE DE 12 MOIS SUIVANT LA DATE 
+D'ENREGISTREMENT DU LOGICIEL (LA "PERIODE D'INSCRIPTION"). LA 
+PERIODE D'INSCRIPTION PEUT ÊTRE RENOUVELEE APRES PAIEMENT DE LA 
+COTISATION ANNUELLE. 
+ 
+1. LICENCE.  Qualcomm vous accorde par le présent document une 
+licence non exclusive pour installer et utiliser le Logiciel sous 
+forme exploitable par une machine sur un seul ordinateur destiné à 
+n'être utilisé que par une seule personne. Vous êtes autorisé à 
+effectuer une copie de sauvegarde du Logiciel, à condition de 
+reproduire toutes les mentions de copyright et de marque déposée
+qui se trouvent sur l'exemplaire d'origine du Logiciel.
+
+2. RESTRICTIONS. Qualcomm conserve tous les droits, titres de 
+propriété et intérêts afférents au Logiciel, et tous les droits qui 
+ne vous sont pas accordés dans le présent document sont réservés par
+Qualcomm. Vous n'êtes pas autorisé à reconstituer la logique du 
+Logiciel, à le désassembler, à le décompiler ni à le traduire, ni 
+encore à calculer le code source du Logiciel, sauf si vous restez 
+dans le cadre de la législation en vigueur. Si la législation en 
+vigueur autorise de telles actions, toutes les informations ainsi 
+découvertes doivent être rapidement divulguées à Qualcomm et sont 
+présumées être des informations confidentielles, propriété de 
+Qualcomm. Aucune tentative de transfert d'un des droits, devoirs ou
+obligations ci-dessous n'est applicable. Vous ne pouvez pas louer, 
+louer avec bail, prêter ni revendre en vue de profits le Logiciel, 
+ou l'une de ses parties. Vous n'êtes pas autorisé à reproduire, 
+distribuer, exécuter ni afficher publiquement le Logiciel à 
+l'exception de ce qui est stipulé dans le paragraphe 1, et vous ne 
+pouvez pas créer de dérivés du Logiciel.
+
+3. DECLARATION DE CONFIDENTIALITE.  La déclaration de 
+confidentialité d'Eudora, disponible en ligne à l'adresse 
+<http://www.eudora.com/privacy>, est incluse dans le présent 
+document pour référence.
+
+4. ASSISTANCE.  Les utilisateurs enregistrés du Logiciel sont en 
+droit de bénéficier des services d'assistance standard de Qualcomm. 
+Ceci étant, les services sont modifiés de temps en temps, à la 
+discrétion de Qualcomm.
+
+5. EXCLUSION DE GARANTIE. LE LOGICIEL EST FOURNI "EN L'ETAT" ET 
+SANS AUCUNE GARANTIE NI CONDITION, QU'ELLES SOIENT EXPRESSES, 
+IMPLICITES OU LEGALES. Certaines juridictions n'autorisant pas
+l'exclusion de responsabilité pour les dommages indirects, il est 
+possible que l'exclusion susdite ne s'applique pas à votre cas.  
+Cette garantie vous donne des droits légaux spécifiques et vous 
+pouvez également disposer d'autres droits légaux, variables d'un 
+état à l'autre.
+
+6. RESPONSABILITE LIMITEE.  EN AUCUN CAS QUALCOMM NI SES
+FOURNISSEURS NE POURRONT ETRE TENUS POUR RESPONSABLES DE
+TOUTE PERTE DE BENEFICES OU DE TOUT AUTRE DOMMAGE INDIRECT,
+ACCESSOIRE OU SPECIAL (QUELLE QU'EN SOIT LA CAUSE, Y COMPRIS
+EN CAS DE NEGLIGENCE) LIES AU LOGICIEL OU A CE CONTRAT, MEME
+SI LA SOCIETE QUALCOMM A ETE PREVENUE DE L'EVENTUALITE DE
+TELS DOMMAGES.  En tout état de cause, la responsabilité totale de 
+Qualcomm liée au Logiciel, quelle que soit la forme d'action 
+intentée, ne saurait dépasser 100 $. Certaines juridictions 
+n'autorisant pas de telles limitations de responsabilité, il est 
+possible que ces limitations ne s'appliquent pas à votre cas.
+
+7. DUREE ET RESILIATION.  Ce contrat est valable jusqu'à sa 
+résiliation. Vous pouvez résilier ce contrat à tout moment en 
+supprimant toutes les copies du Logiciel.  Cette licence est 
+automatiquement résiliée si vous ne respectez pas l'une des 
+clauses du contrat.  Après résiliation, vous devez supprimer sans 
+délai toutes les copies du Logiciel.  Les paragraphes 2, 5, 6, 10 et
+11 restent en vigueur après la résiliation.
+
+8. EXPORTATION.  Vous n'êtes pas autorisé à télécharger, exporter ni
+réexporter le Logiciel, sauf si ces actions sont autorisées dans le 
+cadre des lois et des règlements en vigueur. En acceptant ce 
+contrat, vous déclarez et garantissez que vous : (a) comprenez que 
+le Logiciel est soumis à des contrôles d'exportation par l'EAR, (b) 
+ne vous trouvez pas dans un pays faisant l'objet de sanctions 
+décidées par l'EAR ou les Etats-Unis (actuellement Cuba, l'Iran, 
+l'Irak, la Libye, la Corée du Nord, le Soudan, la Syrie, la 
+République Fédérale de Yougoslavie (y compris la Serbie mais pas le 
+Kosovo ni le Monténégro), et les régions de l'Afghanistan sous le 
+contrôle des Talibans), (c) n'appartenez pas à un parti interdit, 
+particulièrement un parti nationaliste, ou n'êtes pas une personne 
+ou entité à laquelle la réglementation des Etats-Unis interdit de 
+recevoir des produits exportés ou réexportés ; et que (d) vous 
+n'exporterez pas, ne réexporterez pas, ni ne transférerez pas le 
+Logiciel vers toute entité ou personne faisant l'objet d'une 
+interdiction sans disposer des licences ou autorisations 
+d'exportation nécessaires, délivrées par le Gouvernement des 
+Etats-Unis.
+
+9. PARTIES CONTRACTANTES.  Si le Logiciel est installé sur des
+ordinateurs appartenant à une entreprise ou à une autre entité 
+légale, ce contrat est alors formé par et entre Qualcomm et l'entité
+concernée. Les personnes qui souscrivent ce contrat déclarent et 
+garantissent à Qualcomm qu'elles sont autorisées à lier l'entité 
+concernée par les clauses et conditions de ce contrat.
+
+10. INDEMNISATION. Vous acceptez de défendre et de dédommager 
+QUALCOMM Incorporated de toutes les plaintes, pertes, 
+responsabilités, tous les dommages, coûts et dépenses, y compris 
+les frais de justice, que QUALCOMM pourrait rencontrer lors d'une 
+rupture de votre part de ce contrat.
+
+11. GENERALITES. Ce Logiciel est un "produit commercial".  Ce
+contrat est régi et interprété en accord avec les lois de l'Etat
+de Californie, sans appliquer les dispositions de ses conflits de 
+lois.La Convention des Nations Unies sur les Contrats pour la Vente
+Internationale de Biens est expressément rejetée.  Toute plainte 
+liée à ce contrat doit être exclusivement portée devant une cour 
+fédérale ou d'état située dans le Comté de San Diego, en Californie 
+et vous acceptez la juridiction de ces cours de justice. Si l'une 
+des dispositions de ce contrat s'avérait non valide, la validité 
+des autres dispositions de ce contrat n'en sera pas affectée. Ce 
+contrat constitue un accord complet et exclusif entre Qualcomm et 
+vous par rapport au Logiciel et il remplace tout contrat antérieur 
+(écrit ou oral) et toute communication entre Qualcomm et vous au 
+sujet du Logiciel.
+
+COPYRIGHT © 2000 PAR QUALCOMM INCORPORATED. TOUS DROITS RESERVES.
+
+QUALCOMM® EST UNE MARQUE DEPOSEE ET UNE MARQUE DE SERVICE DEPOSEE
+DE QUALCOMM INCORPORATED.  EUDORA® ET EUDORA PRO® SONT DES 
+MARQUES DEPOSEES DE QUALCOMM INCORPORATED. PUREVOICE(TM) EST UNE 
+MARQUE DEPOSEE DE QUALCOMM INCORPORATED. TOUTES LES AUTRES MARQUES 
+DEPOSEES ET MARQUES DE SERVICE SONT LA PROPRIETE DE LEURS 
+PROPRIETAIRES RESPECTIFS.
+
+11/00 - 1

@@ -31,11 +31,13 @@ DefaultGroupName=Cheramy-A
 UninstallDisplayIcon={app}\Desinstaller.ico
 
 [Components]
-Name: "cheramya"; Description: "Application CheramyA"; Types: full compact custom; ExtraDiskSpaceRequired: 20068214; Flags: fixed
-Name: "user"; Description: "User's guide"; Types: full compact custom; Languages: english
-Name: "usager"; Description: "Guide de l'usager"; Types: full compact custom; Languages: french
+Name: "cheramya"; Description: "Application CheramyA"; Types: full compact custom; ExtraDiskSpaceRequired: 110848; Flags: fixed
+
 Name: "readme"; Description: "Readme file"; Types: full compact custom; Languages: english
 Name: "lisezmoi"; Description: "Fichier lisezmoi"; Types: full compact custom; Languages: french
+
+Name: "user"; Description: "User's guide"; Types: full compact custom; Languages: english
+Name: "usager"; Description: "Guide de l'usager"; Types: full compact custom; Languages: french
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"; LicenseFile: C:\Cheramy-A\Application\Licences\LicenseEN.rtf
@@ -51,6 +53,7 @@ Source: "C:\Cheramy-A\Application\Calc.chm"; DestDir: "{app}"; Flags: ignorevers
 Source: "C:\Cheramy-A\Application\Calc.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Cheramy-A\Application\Calc.hlp"; DestDir: "{app}"; Flags: ignoreversion
 Source: "C:\Cheramy-A\Application\Calc.ico"; DestDir: "{app}"; Flags: ignoreversion
+
 Source: "Desinstaller.ico"; DestDir: "{app}"; Flags: ignoreversion
 
 Source: "C:\Cheramy-A\Application\Guides\PDFFile.ico"; DestDir: "{app}\User's guide"; Components: user; Languages: english
