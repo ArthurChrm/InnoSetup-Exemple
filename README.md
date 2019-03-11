@@ -6,5 +6,5 @@ Le but du projet est de créer l'installateur d'une application fictive.
 Le fichier d'installation doit permettre d'installer cette application mais égalements différents composants comme des icônes ou des fichiers sans rapport avec ce projet.
 
 ## Architecture du projet
-Les fichiers compilés par InnoSetup se trouve dans "Application".
+Les fichiers compilés par InnoSetup se trouve dans "Installation".
 Les autres dossiers contiennent les ressources utilisées par InnoSetup pour compiler le fichier final.
