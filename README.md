@@ -7,4 +7,5 @@ Le fichier d'installation doit permettre d'installer cette application mais éga
 
 ## Architecture du projet
 Les fichiers compilés par InnoSetup se trouve dans "Installation".
+Le dossier "Résultat" contient les fichiers écrits sur la machine après l'installation du programme en anglais et en français.
 Les autres dossiers contiennent les ressources utilisées par InnoSetup pour compiler le fichier final.
